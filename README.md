@@ -23,19 +23,19 @@ A full-stack web application that allows users to **register**, **log in**, and 
 
 
 ### Register Page
-![Register Page](register.png)
+![Register Page](public/register.png)
 
 ### Feedback Form
-![Feedback Form](feedback.png)
+![Feedback Form](public/feedback.png)
 
 ###  Submission Notification
-![Success Popup](notify.png)
+![Success Popup](public/notify.png)
 
 
 ###  data stored
-![Data Page](data.png)
-![feedback stiored Page](datafeedback.png)
-![user Page](userdata.png)
+![Data Page](public/data.png)
+![feedback stiored Page](public/datafeedback.png)
+![user Page](public/userdata.png)
 
 ---
 
@@ -72,7 +72,7 @@ project-folder/
 1. **Clone the repository**
 
 
-   git clone https://github.com/Vaseem18/FEEDBACK-COLLECTION-SYSTEM.git
+   git clone https://github.com/Vaseem18/Feedback.git
    cd feedback-collection-system
    
 
