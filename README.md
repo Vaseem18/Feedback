@@ -19,7 +19,7 @@ A full-stack web application that allows users to **register**, **log in**, and 
 ##  Screenshots
 
 ### Login Page
-![Login Page](login.png)
+![Login Page](public/login.png)
 
 
 ### Register Page
